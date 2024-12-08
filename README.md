@@ -1,4 +1,4 @@
-# Lightweight Operating System Kernel for RISC-V
+# Operating Systems Projects / Projekat iz Operativnih sistema
 
 This project implements a small but fully functional kernel for a lightweight operating system targeting the RISC-V architecture. The kernel supports multithreading with **time-sharing**, basic memory allocation, semaphores, and asynchronous context switching triggered by a timer or keyboard interrupts.
 
